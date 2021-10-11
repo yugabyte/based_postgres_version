@@ -3,9 +3,12 @@ The merging effort is still in progress.
 
 Project - Merging Yugabyte with Postgres 13.
   Start - 9/21/21
-  Expected Merge Completion - 10/31
-  Expected Testing Completion - TBD
 
+  Expected Merge Completion 11/11
+  -- Original Date 10/31
+  -- Delayed as I need to provide customer support for other issues.
+
+  Expected Testing Completion - TBD
 
 
 PostgreSQL Database Management System
