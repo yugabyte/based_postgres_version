@@ -10,6 +10,16 @@ Project - Merging Yugabyte with Postgres 13.
 
   Expected Testing Completion - TBD
 
+Previous merge was with Pg11.2
+-- Branch REL_11_STABLE
+-- Up to commit
+```
+      commit 6cd404b344f7e27f4d64555bb133f18a758fe851 (tag: REL_11_2)
+      Author: Tom Lane <tgl@sss.pgh.pa.us>
+      Date:   Mon Feb 11 16:17:27 2019 -0500
+    
+          Stamp 11.2.
+```
 
 PostgreSQL Database Management System
 =====================================
